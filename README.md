@@ -1,7 +1,7 @@
 # UI Clone - Twitter Responsive
 This project is a Twitter user interface clone, developed using React and TypeScript.The main objective of this project is to apply and reinforce 
 learnings in React and TypeScript. By working on this clone, developers can get hands-on experience building a complex UI with React and TypeScript, practicing concepts like component composition, using React Hooks, folder structure.
-## Screen shot
+## Screenshot
 ![thumbnail_ui-twitter](https://github.com/Shintakuenzou/twitter-ui-clone/assets/91697813/5dc9d462-3e1b-474c-a2a0-c5b151f6ced3)
 
 ## Features
